@@ -6,6 +6,6 @@ Advanced React Practices:
 Create UI:
  - Material UI
 Fetch Data:
- -Rapid API
- -ExerciseDB API Documentation
- -YouTube Search & Download
+ Rapid API
+ ExerciseDB API Documentation
+ YouTube Search & Download
