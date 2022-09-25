@@ -9,5 +9,5 @@ Create UI:
 
 Fetch Data:
  Rapid API
- ExerciseDB API Documentation
+ ExerciseDB API Documentation |
  YouTube Search & Download
