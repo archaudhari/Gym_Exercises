@@ -5,7 +5,7 @@ Advanced React Practices:
  - Hooks
 
 Create UI:
- - Material UI
+ Material UI
 
 Fetch Data:
  Rapid API
